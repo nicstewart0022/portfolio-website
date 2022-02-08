@@ -6,14 +6,14 @@
 #645B53 = stone
 #7E8670 = olive
 */
-
+body {
+  font-family: "Montserrat", sans-serif;
+}
 nav {
   background-color: #b8613c;
 }
 h1 {
   text-align: center;
   padding-top: 20px;
-}
-body {
-  font-family: monospace;
+  font-size: 60px;
 }
