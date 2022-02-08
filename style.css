@@ -8,6 +8,7 @@
 */
 body {
   font-family: "Montserrat", sans-serif;
+  background-color: #e8d8c5;
 }
 nav {
   background-color: #b8613c;
@@ -16,4 +17,21 @@ h1 {
   text-align: center;
   padding-top: 20px;
   font-size: 60px;
+  color: #7e8670;
+  font-weight: 600;
+}
+p {
+  text-align: center;
+}
+footer {
+  font-size: 10px;
+  font-style: italic;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin: auto;
 }
