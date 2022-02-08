@@ -1,0 +1,19 @@
+/* color theme (https://i.pinimg.com/originals/d9/a1/7d/d9a17d40c2a47d352c47cf53f3de2607.png): 
+#B8613C = clay
+#DBA955 = mustard
+#E8D8C5 = sand/cream
+#967D5C = khaki
+#645B53 = stone
+#7E8670 = olive
+*/
+
+nav {
+  background-color: #b8613c;
+}
+h1 {
+  text-align: center;
+  padding-top: 20px;
+}
+body {
+  font-family: monospace;
+}
