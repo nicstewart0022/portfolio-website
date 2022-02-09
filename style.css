@@ -27,11 +27,26 @@ footer {
   font-size: 10px;
   font-style: italic;
   text-align: center;
-  padding-bottom: 10px;
+  color: #645b53;
 }
 
 img {
   width: 300px;
   display: block;
   margin: auto;
+  border-radius: 3px;
+}
+a {
+  text-decoration: none;
+  color: #b8613c;
+}
+a:hover {
+  color: #dba955;
+}
+.intro {
+  color: #645b53;
+  margin: 20px;
+  border-radius: 3px;
+  font-size: 20px;
+  font-weight: 500;
 }
